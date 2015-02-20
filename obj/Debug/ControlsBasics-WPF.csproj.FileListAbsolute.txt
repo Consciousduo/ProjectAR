@@ -1,0 +1,77 @@
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction170_32.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\KinectInteraction170_64.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.exe
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\ControlsBasics-WPF.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\Common\StandardStyles.baml
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\SelectionDisplay.baml
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\App.baml
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\FaceTrackingViewer.baml
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\obj\Debug\FaceTrackingViewer.g.cs
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\KinectInteraction170_32.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\KinectInteraction170_64.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\ControlsBasics-WPF.exe
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\ControlsBasics-WPF.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\AnyCPU.Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Duo\Desktop\AR\ControlsBasics-WPF\x86.Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\AR\ControlsBasics-WPF\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\ControlsBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Common\StandardStyles.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\FaceTrackingViewer.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\SelectionDisplay.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\App.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\FaceTrackingViewer.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\SelectionDisplay.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\App.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\ControlsBasics-WPF_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\ControlsBasics-WPF_MarkupCompile.lref
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\ControlsBasics-WPF.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\KinectInteraction170_32.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\KinectInteraction170_64.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\FaceTrackData.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\FaceTrackLib.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\ControlsBasics-WPF.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\ControlsBasics-WPF.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\ControlsBasics-WPF.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Microsoft.Samples.Kinect.ControlsBasics.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\ControlsBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\ControlsBasics-WPF.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\ControlsBasics-WPF.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Project_AR.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR_MarkupCompile.lref

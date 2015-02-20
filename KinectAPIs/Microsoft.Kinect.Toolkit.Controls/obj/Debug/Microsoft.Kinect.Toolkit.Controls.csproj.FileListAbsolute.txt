@@ -1,0 +1,12 @@
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\.Debug\KinectInteraction170_32.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\.Debug\KinectInteraction170_64.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\KinectAPIs\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\KinectAPIs\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\KinectAPIs\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\KinectAPIs\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\KinectAPIs\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\KinectAPIs\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\KinectAPIs\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\KinectAPIs\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

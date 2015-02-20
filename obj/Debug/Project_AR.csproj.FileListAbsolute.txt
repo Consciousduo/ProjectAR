@@ -1,0 +1,81 @@
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Project_AR.exe.config
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR.exe
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR.pdb
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR.csprojResolveAssemblyReference.cache
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Common\StandardStyles.baml
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\FaceTrackingViewer.baml
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\SelectionDisplay.baml
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\App.baml
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\FaceTrackingViewer.g.cs
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\MainWindow.g.cs
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\App.g.cs
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR_MarkupCompile.cache
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR_MarkupCompile.lref
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\FaceTrackData.dll
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\FaceTrackLib.dll
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\KinectInteraction170_32.dll
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\KinectInteraction170_64.dll
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\MainWindow.baml
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR.g.resources
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR.Properties.Resources.resources
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR.csproj.GenerateResource.Cache
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Project_AR.exe
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\x86.Debug\Project_AR.pdb
+C:\Users\Art\Documents\Visual Studio 2012\Projects\Kinect\project-ar\obj\Debug\Project_AR.AboutBox1.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\KinectInteraction170_32.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\KinectInteraction170_64.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\FaceTrackData.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\FaceTrackLib.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Project_AR.exe.config
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Project_AR.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Project_AR.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\x86.Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Common\StandardStyles.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\FaceTrackingViewer.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\SelectionDisplay.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\App.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\FaceTrackingViewer.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\SelectionDisplay.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\App.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR_MarkupCompile.cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR_MarkupCompile.lref
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR.g.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR.AboutBox1.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR.exe
+C:\Users\John\Documents\Visual Studio 2012\Projects\Project_AR\obj\Debug\Project_AR.pdb
+C:\Users\Duo\Desktop\ProjectAR\x86.Debug\Project_AR.exe.config
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\Project_AR.exe
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\Project_AR.pdb
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\Project_AR.csprojResolveAssemblyReference.cache
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\Common\StandardStyles.baml
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\FaceTrackingViewer.baml
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\SelectionDisplay.baml
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\App.baml
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\FaceTrackingViewer.g.cs
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\MainWindow.g.cs
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\SelectionDisplay.g.cs
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\App.g.cs
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\Project_AR_MarkupCompile.cache
+C:\Users\Duo\Desktop\ProjectAR\obj\Debug\Project_AR_MarkupCompile.lref
